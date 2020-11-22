@@ -1,0 +1,60 @@
+.hero404 .page-container {
+	width:80%;
+	max-width:1320px;
+	margin:0 auto 4rem auto;
+}
+
+.hero404 .navigation a {
+	font-weight: 600;
+}
+
+.hero404 .page-body {
+	display:flex;
+	align-items:center;
+}
+
+.hero404 .message404 {
+	width:50%;
+}
+
+.hero404 .message404 .btn {
+	width:35%;
+	min-width:140px;
+}
+
+.hero404 .message404 .h1 {
+	margin-top:4rem;
+}
+
+.hero404 .image404 {
+	width:50%;
+}
+
+
+@media (max-width: 768px) {
+	
+	.hero404 .navigation {
+		margin-top:0.5em;
+	}
+
+	.hero404 .page-body {
+		flex-direction:column;
+	}
+
+	.hero404 .image404 {
+		width:100%;
+	}
+
+	.hero404 .message404 {
+		width:100%;
+		order:2;
+	}
+
+	.hero404 .message404 .h1 {
+		margin-top:0px;
+	}
+
+	.hero404 .message404 .btn {
+		margin:0 auto;
+	}
+}
