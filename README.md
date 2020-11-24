@@ -1,70 +1,71 @@
-# Getting Started with Create React App
+# Contrast React Admin Dashboard (Free)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was with the CDBReact Package [CDBReact](https://github.com/Devwares-Team/cdbreact).
 
-## Available Scripts
+## Install
 
-In the project directory, you can run:
+```bash
+npm install
+```
 
-### `yarn start`
+or 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+```bash
+yarn install
+```
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Usage
 
-### `yarn test`
+```bash
+npm start
+```
+or
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+```bash
+yarn start
+```
 
-### `yarn build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Browser support
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Browsers supported
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+|     |  [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" alt="Edge / Edge" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br/>IE / Edge | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" alt="Firefox" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br/>Firefox | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" alt="Chrome" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br/>Chrome | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" alt="Safari" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br/>Safari | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" alt="Opera" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br/>Opera |
+|-----|  --------- | --------- | --------- | --------- | --------- |
+|Mac | N/A  | supported  | supported   | supported   | supported  |
+|Windows | supported  |supported   |supported   | N/A | supported  |
 
-### `yarn eject`
+## Documentation
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+[Check out our documentation here](https://www.devwares.com/docs/contrast/react/index)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## PRO Version
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+[Contrast React Admin Dashboard PRO](https://www.devwares.com/product/admin-contrast-pro)
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## License
 
-## Learn More
+See License in &lt;license.pdf&gt; © [Devwares](https://github.com/Devwares)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Support Devwares
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Follow us on Social Media
 
-### Code Splitting
+* [Twitter](https://twitter.com/devwares?s=09)
+* [Facebook](https://www.facebook.com/Devwares-102291481719158/)
+* [Instagram](https://instagram.com/devwares)
+* [Linkedin](https://www.linkedin.com/company/devwares)
+* [Youtube](https://www.youtube.com/channel/UCl0MxA8KB7EdmPcSsVwT3pQ)
+  
+### Check out and star our GitHub repository
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+* [Github](https://github.com/Devwares)
+  
+* Create pull requests
+* Submit bugs
+* Suggest new features
+* Help us Improve our documentation with updates
 
-### Analyzing the Bundle Size
+We truly appreciate us all and everyone who has contributed to this project, as we continue to use and imporove this project.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+A massive thank you to everyone!
